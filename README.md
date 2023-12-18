@@ -5,4 +5,5 @@ Spring Boot Restful API to manage employee data
 
 You need to complete the application properties to connect to postgreSQL database
 
-<img width="1680" alt="Employee data overview" src="https://github.com/acisse1/Empl-oyee_Rest_API/assets/133061723/b4b677ab-b321-4de1-a7a5-75ddd2c06113">
+
+<img width="1375" alt="employee data overview" src="https://github.com/acisse1/Empl-oyee_Rest_API/assets/133061723/c85ece23-dbe2-4023-a114-cdd74b05012b">
